@@ -3,6 +3,10 @@
 ## Overview
 This project detects whether a message is SPAM or NOT SPAM using Machine Learning.
 
+## 🌐 Live Demo
+Click here to try the app:  
+https://spam-email-detector-fetyfje4pw4twgjkrvqkms.streamlit.app/
+
 ## Tech Stack
 - Python
 - Streamlit
